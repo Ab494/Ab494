@@ -6,9 +6,12 @@ A passionate **Backend Developer** with a focus on building scalable and secure 
 - Languages: Python
 - Frameworks: Django, Django REST Framework
 - Database: PostgreSQL, SQLite
-. Tools: Git, GitHub, Linux, Postman
-. Deployment: Heroku, Render, Nginx
+- Tools: Git, GitHub, Linux, Postman
+- Deployment: Heroku, Render, Nginx
 
+  ### Lets Connect
+- Email: cheruiyotevans646@gmail.com
+- 
 
 
 
