@@ -3,7 +3,7 @@ A passionate **Backend Developer** with a focus on building scalable and secure 
 
  Tech Stack
 
-. Languages: Python
+- Languages: Python
 . Frameworks: Django, Django REST Framework
 . Database: PostgreSQL, SQLite
 . Tools: Git, GitHub, Linux, Postman
