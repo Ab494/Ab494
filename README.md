@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Evans 👋
+A passionate # Backend Developer #with a focus on building scalable and secure applications using Django, REST APIS and PostgreSQL.
+
 
 <!--
 **Ab494/Ab494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
