@@ -1,7 +1,5 @@
 ## Hi, I'm Evans 👋
-A passionate **Backend Developer** with a focus on building scalable and secure applications using Django, REST APIS and PostgreSQL.
-
- Tech Stack
+I'm a passionate Backend Developer focused on building scalable and secure applications with Django, REST APIs, and PostgreSQL. 
 
 - Languages: Python
 - Frameworks: Django, Django REST Framework
