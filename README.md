@@ -15,8 +15,10 @@ I'm a passionate Backend Developer focused on building scalable and secure appli
 
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/Django%20REST%20Framework-red?logo=django&logoColor=white) 
 
-  ### Lets Connect
-- Email: cheruiyotevans646@gmail.com
+## Tools:
+
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) 
 - 
 
 
