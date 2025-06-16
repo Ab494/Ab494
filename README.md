@@ -1,7 +1,7 @@
 ## Hi, I'm Evans 👋
 
 
-I'm a passionate #Backend Developer# focused on building scalable and secure applications with Django, REST APIs, and PostgreSQL.
+I'm a passionate # Backend Developer # focused on building scalable and secure applications with Django, REST APIs, and PostgreSQL.
 
 ## 🚀 Tech Stack
 
