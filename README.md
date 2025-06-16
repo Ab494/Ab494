@@ -3,7 +3,7 @@
 
 I'm a passionate Backend Developer focused on building scalable and secure applications with Django, REST APIs, and PostgreSQL.
 
-🚀 Tech Stack
+## 🚀 Tech Stack
 
 - Languages: Python
 - Frameworks: Django, Django REST Framework
