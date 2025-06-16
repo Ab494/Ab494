@@ -5,7 +5,7 @@ I'm a passionate Backend Developer focused on building scalable and secure appli
 
 ## 🚀 Tech Stack
 
-Languages:
+# Languages:
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
