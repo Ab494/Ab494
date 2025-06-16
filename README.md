@@ -49,5 +49,3 @@ I'm a passionate **Backend Developer** focused on building scalable and secure a
 #### ⭐️ Check out my pinned repositories below for some of my favorite projects!
 
 ---
-
-Let me know if you want to add links (LinkedIn, portfolio), a “Projects” section, or anything else!
