@@ -26,7 +26,10 @@ I'm a passionate Backend Developer focused on building scalable and secure appli
 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-00979D?logo=render&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) 
 
+## Data Analysis:
 
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-16a085?logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
 
 <!--
