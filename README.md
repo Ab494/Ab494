@@ -10,11 +10,10 @@ I'm a passionate Backend Developer focused on building scalable and secure appli
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
 
+# Frameworks:
 
-- Frameworks: Django, Django REST Framework
-- Database: PostgreSQL, SQLite
-- Tools: Git, GitHub, Linux, Postman
-- Deployment: Heroku, Render, Nginx
+
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/Django%20REST%20Framework-red?logo=django&logoColor=white) 
 
   ### Lets Connect
 - Email: cheruiyotevans646@gmail.com
