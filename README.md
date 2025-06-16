@@ -5,7 +5,12 @@ I'm a passionate Backend Developer focused on building scalable and secure appli
 
 ## 🚀 Tech Stack
 
-- Languages: Python
+Languages:
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+
+
 - Frameworks: Django, Django REST Framework
 - Database: PostgreSQL, SQLite
 - Tools: Git, GitHub, Linux, Postman
