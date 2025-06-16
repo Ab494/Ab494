@@ -19,7 +19,12 @@ I'm a passionate Backend Developer focused on building scalable and secure appli
 
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) 
-- 
+
+
+## Deployment:
+
+
+![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-00979D?logo=render&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) 
 
 
 
