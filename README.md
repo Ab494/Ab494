@@ -28,38 +28,8 @@ I'm a passionate **Backend Developer** focused on building scalable and secure a
 
 ---
 
-### 📚 Currently Learning
-
-I'm continuously expanding my backend expertise and broadening my DevOps and data skills. Here are my current learning goals:
-
-- 🐍 **Advanced Django:**  
-  Exploring signals, middleware, and async views to build more robust and scalable Django applications.  
-  [Django Signals](https://docs.djangoproject.com/en/stable/topics/signals/)
-
-- 🔒 **API Security Best Practices:**  
-  Implementing secure authentication and authorization using JWT and OAuth2.  
-  [JWT Introduction](https://jwt.io/introduction/)
-
-- 🐳 **Containerization with Docker:**  
-  Learning to package, deploy, and manage applications in containers for consistency across environments.  
-  [Docker Getting Started](https://docs.docker.com/get-started/)
-
-- ⚙️ **CI/CD with GitHub Actions:**  
-  Automating testing, building, and deployment workflows to improve development efficiency.  
-  [GitHub Actions Guide](https://docs.github.com/en/actions/learn-github-actions)
-
-- ☁️ **Cloud Platforms:**  
-  Gaining hands-on experience with AWS, Azure, and GCP for scalable, cloud-native deployments.  
-  [AWS](https://aws.amazon.com/get-started/) | [Azure](https://learn.microsoft.com/en-us/azure/) | [GCP](https://cloud.google.com/docs)
-
-- 🐧 **Linux System Administration:**  
-  Enhancing my ability to manage servers, automate tasks, and troubleshoot in Linux environments.  
-  [DigitalOcean Linux Tutorials](https://www.digitalocean.com/community/tutorial_series/getting-started-with-linux)
-
-- 📊 **Python Data Analysis:**  
-  Strengthening my data analysis and visualization skills using Pandas, Matplotlib, Seaborn, NumPy, and Jupyter Notebook.  
-  [RealPython Data Analysis](https://realpython.com/python-data-analysis/)
-
+📚 Currently Learning
+<p> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" alt="Kubernetes"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?logo=githubactions&logoColor=white&style=for-the-badge" alt="CI/CD"/> <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS"/> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux"/> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge" alt="Matplotlib"/> <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" alt="NumPy"/> <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" alt="Jupyter Notebook"/> </p>
 ---
 
 I'm open to suggestions, resources, or collaborations in any of these areas!
