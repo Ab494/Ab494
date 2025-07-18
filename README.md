@@ -30,15 +30,39 @@ I'm a passionate **Backend Developer** focused on building scalable and secure a
 
 ### 📚 Currently Learning
 
-- 🐍 [Advanced Django features (signals, middleware, async views)](https://docs.djangoproject.com/en/stable/topics/signals/)
-- 🔒 [API security best practices (JWT, OAuth2)](https://jwt.io/introduction/)
-- 🐳 [Docker and containerized deployments](https://docs.docker.com/get-started/)
-- ⚙️ [CI/CD workflows with GitHub Actions](https://docs.github.com/en/actions/learn-github-actions)
-- ☁️ [Cloud platforms (AWS, Azure, GCP)](https://aws.amazon.com/getting-started/, https://learn.microsoft.com/en-us/azure/, https://cloud.google.com/docs)
-- 🐧 [Linux system administration](https://www.digitalocean.com/community/tutorial_series/getting-started-with-linux)
-- 📊 [Data analysis in Python (Pandas, Matplotlib, Seaborn, NumPy, Jupyter Notebook)](https://realpython.com/python-data-analysis/)
+I'm continuously expanding my backend expertise and broadening my DevOps and data skills. Here are my current learning goals:
+
+- 🐍 **Advanced Django:**  
+  Exploring signals, middleware, and async views to build more robust and scalable Django applications.  
+  [Django Signals](https://docs.djangoproject.com/en/stable/topics/signals/)
+
+- 🔒 **API Security Best Practices:**  
+  Implementing secure authentication and authorization using JWT and OAuth2.  
+  [JWT Introduction](https://jwt.io/introduction/)
+
+- 🐳 **Containerization with Docker:**  
+  Learning to package, deploy, and manage applications in containers for consistency across environments.  
+  [Docker Getting Started](https://docs.docker.com/get-started/)
+
+- ⚙️ **CI/CD with GitHub Actions:**  
+  Automating testing, building, and deployment workflows to improve development efficiency.  
+  [GitHub Actions Guide](https://docs.github.com/en/actions/learn-github-actions)
+
+- ☁️ **Cloud Platforms:**  
+  Gaining hands-on experience with AWS, Azure, and GCP for scalable, cloud-native deployments.  
+  [AWS](https://aws.amazon.com/get-started/) | [Azure](https://learn.microsoft.com/en-us/azure/) | [GCP](https://cloud.google.com/docs)
+
+- 🐧 **Linux System Administration:**  
+  Enhancing my ability to manage servers, automate tasks, and troubleshoot in Linux environments.  
+  [DigitalOcean Linux Tutorials](https://www.digitalocean.com/community/tutorial_series/getting-started-with-linux)
+
+- 📊 **Python Data Analysis:**  
+  Strengthening my data analysis and visualization skills using Pandas, Matplotlib, Seaborn, NumPy, and Jupyter Notebook.  
+  [RealPython Data Analysis](https://realpython.com/python-data-analysis/)
 
 ---
+
+I'm open to suggestions, resources, or collaborations in any of these areas!
 
 ---
 
