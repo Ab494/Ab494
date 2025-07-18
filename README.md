@@ -30,13 +30,15 @@ I'm a passionate **Backend Developer** focused on building scalable and secure a
 
 ### 📚 Currently Learning
 
-- Advanced Django features (signals, middleware, async views)
-- API security best practices (JWT, OAuth2)
-- Docker and containerized deployments
-- CI/CD workflows with GitHub Actions
-- Cloud platforms (AWS, Azure, GCP)
-- Linux system administration
-- Data analysis in Python (Pandas, Matplotlib, Seaborn, NumPy, Jupyter Notebook)
+- 🐍 [Advanced Django features (signals, middleware, async views)](https://docs.djangoproject.com/en/stable/topics/signals/)
+- 🔒 [API security best practices (JWT, OAuth2)](https://jwt.io/introduction/)
+- 🐳 [Docker and containerized deployments](https://docs.docker.com/get-started/)
+- ⚙️ [CI/CD workflows with GitHub Actions](https://docs.github.com/en/actions/learn-github-actions)
+- ☁️ [Cloud platforms (AWS, Azure, GCP)](https://aws.amazon.com/getting-started/, https://learn.microsoft.com/en-us/azure/, https://cloud.google.com/docs)
+- 🐧 [Linux system administration](https://www.digitalocean.com/community/tutorial_series/getting-started-with-linux)
+- 📊 [Data analysis in Python (Pandas, Matplotlib, Seaborn, NumPy, Jupyter Notebook)](https://realpython.com/python-data-analysis/)
+
+---
 
 ---
 
