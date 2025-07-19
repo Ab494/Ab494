@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Evans 👋</h1>
 <p align="center">
-  <em>Backend Developer | Django Enthusiast | API Specialist</em>
+  <em>Backend Developer | Django Enthusiast | API Specialist | Exploring AI</em>
 </p>
 
 ---
 
 <p align="center">
-  Passionate about building scalable, secure, and efficient backend systems with Python, Django, and PostgreSQL.
+  Passionate about building scalable, secure, and intelligent backend systems using Python, Django, PostgreSQL, and AI.
 </p>
 
 ---
@@ -19,16 +19,26 @@
 
 ---
 
+## 🤖 AI & OpenAI Work
+
+Currently building smart applications powered by OpenAI APIs.
+
+- **AI Chatbot API** – A Django RESTful API that accepts user input and generates intelligent responses using OpenAI’s GPT models.
+- **Prompt-Based Assistant** *(Coming Soon)* – A virtual academic assistant that helps students through AI-generated guidance.
+
+> These projects aim to blend traditional backend development with modern AI capabilities. Repos and demos coming soon!
+
+---
+
 ## 📚 Currently Learning
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" alt="Kubernetes"/>
 </p>
-<p>
-  Exploring containerization and orchestration to enhance workflow automation and app scalability.<br>
-  Currently upskilling in Software Engineering at <b>PLP (Power Learn Project)</b>.
-</p>
+
+Exploring containerization and orchestration to enhance app scalability and automation.  
+Currently upskilling in Software Engineering with **PLP (Power Learn Project)**.
 
 ---
 
@@ -36,9 +46,17 @@
 
 | Name | Description | Tech Used |
 |------|-------------|-----------|
-| **[School Management System](https://school-dashboard-lqng.onrender)** | A comprehensive platform for managing school operations, student records, and reporting. | Django, DRF, PostgreSQL |
-| **[CrudAPI Project](https://crudapi-bwfv.onrender.com/swagger/)** | RESTful API providing CRUD operations with Swagger documentation. | Django, DRF, PostgreSQL |
-| _More on my pinned repositories below!_ |
+| **[School Management System](https://school-dashboard-lqng.onrender)** | A platform for managing school operations, students, grading, and reporting. | Django, DRF, PostgreSQL |
+| **[CrudAPI Project](https://crudapi-bwfv.onrender.com/swagger/)** | RESTful API for CRUD operations with Swagger docs. | Django, DRF, PostgreSQL |
+| **AI Chatbot API** *(Coming Soon)* | ChatGPT-style API for intelligent responses to user prompts. | Django, OpenAI, REST API |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ab494&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
 
 ---
 
@@ -51,9 +69,9 @@
 ---
 
 <p align="center">
-  <em>Open to suggestions, resources, or collaborations. Feel free to reach out!</em>
+  <em>Open to backend roles, AI projects, freelance gigs, and collaborations. Let’s build together!</em>
 </p>
 
 ---
 
-> ⭐️ Check out my pinned repositories below for some of my favorite projects!
+> ⭐️ Check out my pinned repositories below for more of my favorite projects.
