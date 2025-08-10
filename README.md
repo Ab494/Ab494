@@ -7,9 +7,9 @@
 
 ## 👨‍💻 About Me
 
-I'm **Evans Cheruiyot**, a passionate and self-taught **Backend Developer** based in Kenya, focused on building reliable, efficient, and secure backend systems. I specialize in **Python** and **Django**, and I enjoy designing clean APIs, managing databases, and deploying real-world applications.
+I'm **Evans Cheruiyot**, a passionate and self taught **Backend Developer** based in Kenya, focused on building reliable, efficient, and secure backend systems. I specialize in **Python** and **Django**, and I enjoy designing clean APIs, managing databases, and deploying real-world applications.
 
-Currently, I'm learning **Software Engineering through the Power Learn Project (PLP)** — a program that’s helping me strengthen my skills in software architecture, DevOps, and scalable system design.
+Currently, I'm learning **Software Engineering through the Power Learn Project (PLP)** a program that’s helping me strengthen my skills in software architecture, DevOps, and scalable system design.
 
 From student management platforms to AI-powered APIs, I’m always exploring new ways to merge clean backend logic with modern technologies like **OpenAI**, **Docker**, and **Linux**.
 
@@ -36,7 +36,7 @@ Currently experimenting with OpenAI APIs to build intelligent backend solutions.
 - **AI Chatbot API** – A Django-based RESTful API that takes user prompts and generates intelligent responses using GPT models.
 - **Prompt-Based Academic Assistant** *(Coming Soon)* – A virtual academic helper designed for students, powered by OpenAI.
 
-> Blending traditional backend power with cutting-edge AI — more repos and demos coming soon!
+> Blending traditional backend power with cutting edge AI more repos and demos coming soon!
 
 ---
 
