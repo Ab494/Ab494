@@ -18,7 +18,7 @@
 
 ### 💬 **I am a:**
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+Developer;Linux+Enthusiast;Love+Building+Tech+Solutions)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;Linux+Enthusiast;Love+Building+Tech+Solutions)
 
 </div>
 
