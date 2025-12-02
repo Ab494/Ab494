@@ -13,8 +13,9 @@
 
 <!--## 🔗 Social Links  -->
 <p>
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="35"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=twitter" width="35"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=github" width="20"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="20"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=twitter" width="20"/></a>
 </p>
 
 ---
