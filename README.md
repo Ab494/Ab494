@@ -8,16 +8,13 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&center=true&vCenter=true&width=600&lines=Hello,+This+is+Evans+Cheruiyot+Software+Engineer;Love+Building+Tech+Solutions;Interested+in+Learning+New+Technologies+in+Tech;Full-stack+Developer;Linux+Enthusiast)
 
 </div>
-
 ---
-
 <!--## 🔗 Social Links  -->
 <p>
 <a href="https://github.com/Ab494"><img src="https://skillicons.dev/icons?i=github" width="20"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="20"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=twitter" width="20"/></a>
 </p>
-
 ---
 
 # 🧰 Languages & Tools
