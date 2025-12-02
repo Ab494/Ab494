@@ -1,8 +1,8 @@
-<h1 align="center">Evans</h1>
+<!-- <h1 align="center">Evans</h1>
 
 <div align="center">
 
-### 💬 I am a:
+### 💬 I am a: -->
 
 <!-- ANIMATED DESCRIPTION -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Love+Building+Tech+Solutions;Interested+in+Learning+New+Technologies+in+Tech;Full-stack+Developer;Linux+Enthusiast)
