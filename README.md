@@ -1,24 +1,11 @@
-<!-- HEADER BANNER -->
-<div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=70&section=header&text=Interested%20in%20learning%20new%20technologies%20in%20tech&fontSize=20&fontColor=ffffff&animation=fadeIn)
-
-</div>
-
-<br>
-
-<!-- PROFILE IMAGE -->
-<div align="center">
-  <img src="https://github.com/Ab494.png" width="180" style="border-radius:50%;">
-</div>
-
-<h1 align="center">Ab494</h1>
+<h1 align="center">Evans</h1>
 
 <div align="center">
 
-### 💬 **I am a:**
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;Linux+Enthusiast;Love+Building+Tech+Solutions)
+### 💬 I am a:
+
+<!-- ANIMATED DESCRIPTION -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Love+Building+Tech+Solutions;Interested+in+Learning+New+Technologies+in+Tech;Full-stack+Developer;Linux+Enthusiast)
 
 </div>
 
@@ -39,15 +26,14 @@
 
 ---
 
-# 📊 My GitHub Stats  
-### 🔥 Activity Graph (same pink theme as screenshot)
+# 📊 Activity Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ab494&theme=pink&area=true&hide_border=true"/>
 </p>
 
 ---
 
-# 🚀 GitHub Streak
+# 🔥 GitHub Streak
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Ab494&theme=dark&hide_border=true"/>
 </p>
