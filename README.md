@@ -13,7 +13,7 @@
 
 <!--## 🔗 Social Links  -->
 <p>
-<a href="#"><img src="https://skillicons.dev/icons?i=github" width="20"/></a>
+<a href="https://github.com/Ab494"><img src="https://skillicons.dev/icons?i=github" width="20"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="20"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=twitter" width="20"/></a>
 </p>
