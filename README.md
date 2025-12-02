@@ -11,10 +11,10 @@
 
 ---
 
-## 🔗 Social Links  
+<!--## 🔗 Social Links  -->
 <p>
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="35"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=twitter" width="35"/></a>
 </p>
 
 ---
