@@ -14,7 +14,7 @@
 <!--## 🔗 Social Links  -->
 <p>
 <a href="https://github.com/Ab494"><img src="https://skillicons.dev/icons?i=github" width="20"/></a>
-<a href="https://www.linkedin.com/in/evans-kipngeno-cheruiyot-448458346/"><img src="https://skillicons.dev/icons?i=linkedin" width="20"/></a>
+<a href="www.linkedin.com/in/lisaann-smith-2679463aa/"><img src="https://skillicons.dev/icons?i=linkedin" width="20"/></a>
 <!--<a href="https://x.com/EvansCheru48487"><img src="https://skillicons.dev/icons?i=twitter" width="20"/></a> -->
 </p>
 
