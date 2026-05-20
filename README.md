@@ -22,7 +22,7 @@
 
 # Languages & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,js,ts,react,nodejs,express,nextjs,cpp,cs,html,css,tailwind,linux,git,github,docker,postgres,mysql,mongodb,redis,nginx,ubuntu,threejs,figma" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,js,ts,react,nodejs,express,nextjs,cpp,cs,html,css,tailwind,linux,git,github,docker,postgres,mysql,mongodb,redis,nginx,ubuntu" />
 </p>
 
 ---
